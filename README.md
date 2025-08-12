@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Abhinav M  
 
-<!--
-**AbhinavMadeni/AbhinavMadeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cyber Security Analyst** | 🔍 **Penetration Tester** | 🎯 **CTF Player**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+- 📍 From Kerala, India  
+- 🎓 **B.Com Finance** – Calicut University  
+- 🔐 Passionate about **Cyber Security** & **Ethical Hacking**  
+- 🧰 Experience in **Penetration Testing Tools**, **Vulnerability Assessment**, and **CTF Challenges**  
+- 💡 Always learning and exploring new attack & defense techniques  
+
+---
+
+## 🧰 Skills & Tools
+- **Pentesting Tools**: Nmap, Metasploit, Burp Suite, Wireshark, Hydra, John the Ripper, etc.  
+- **CTF Experience**: Web exploitation, Reverse engineering, Forensics, OSINT  
+- **Security Domains**: Network Security, Web Application Security, Threat Hunting  
+
+---
+
+## 🚀 Projects & Experience
+- 🛠 **Penetration Testing Tool** – Designed & implemented a custom pentesting utility to identify vulnerabilities  
+- 🎯 **CTF Challenges** – Participated in multiple Capture The Flag competitions, solving diverse security puzzles  
+
+---
+
+## 📫 Connect With Me
+- 🌐 [GitHub](https://github.com/AbhinavMadeni)  
+- 💼 [LinkedIn]()  
+- 📧 Email:abhinavnandhu7676@gmail.com  
+
+---
+
+> *"Security is not a product, but a process." – Bruce Schneier*  
+
