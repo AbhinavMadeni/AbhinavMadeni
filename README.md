@@ -28,7 +28,7 @@
 
 ## 📫 Connect With Me
 - 🌐 [GitHub](https://github.com/AbhinavMadeni)  
-- 💼 [LinkedIn](# 👋 Hi, I’m Abhinav M  
+- 💼 [LinkedIn](www.linkedin.com/in/abhinav-m-b7035a376)
 
 💻 **Cyber Security Analyst** | 🔍 **Penetration Tester** | 🎯 **CTF Player**  
 
